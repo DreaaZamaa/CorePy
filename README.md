@@ -30,6 +30,8 @@ CorePy is being developed by Toti Larson at the University of Texas at Austin, B
 
 5. **Geoforce students** - Ana Letícia Batista (2020) - Jackson State University 
 
+6. **Joke of the Day** - I never got into geology. Seemed too crowded as so many geologists are out standing in the field.
+
 ## Package Inventory
  
 corepytools.py
